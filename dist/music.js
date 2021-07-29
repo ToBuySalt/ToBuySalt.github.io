@@ -32,34 +32,34 @@ const ap = new APlayer({
 //
   audio: [
     {
-      name: "平凡之路",
-      artist: '朴树',
-      url: 'http://www.ytmp3.cn/down/59211.mp3',
-      cover: 'http://p1.music.126.net/W_5XiCv3rGS1-J7EXpHSCQ==/18885211718782327.jpg?param=130y130',
+      name: "嗜好",
+      artist: '颜人中',
+      url: 'http://m10.music.126.net/20210730003511/0177d8e5da6de10a97ea6064378e5035/ymusic/0252/0153/5659/58b03e7a0269420a3633a383ac928f4b.mp3',
     },
     {
-      name: '这些民谣 - 一次听个够',
-      artist: '翁大涵',
-      url: 'http://www.ytmp3.cn/down/60222.mp3',
-      cover: 'http://p2.music.126.net/Wx5GNJEpay2JbfVUJc4Aew==/109951163094853876.jpg?param=130y130',
+      name: '太阳',
+      artist: '王巨星',
+      url: 'http://m10.music.126.net/20210730003656/0d17f733dbbbdc9ba1f6d9f7bf5441e5/ymusic/565b/5109/515d/a1578ba9c2fcf6596433f71223e81037.mp3',
     },
     {
-      name: '你的酒馆对我打了烊',
-      artist: '陈雪凝',
-      url: 'http://www.ytmp3.cn/down/59770.mp3',
-      cover: 'http://p1.music.126.net/LiRR__0pJHSivqBHZzbMUw==/109951163816225567.jpg?param=130y130',
+      name: '好喜欢你',
+      artist: '颜人中',
+      url: 'http://m10.music.126.net/20210730003841/4be7d48522cc231438a8c182ee6fcc6e/ymusic/530f/020b/065d/de2f5327585a27151005178a6137fd3a.mp3',
     },
     {
-      name: 'Something Just Like This',
-      artist: 'The Chainsmokers',
-      url: 'http://www.ytmp3.cn/down/50463.mp3',
-      cover: 'http://p2.music.126.net/ggnyubDdMxrhpqYvpZbhEQ==/3302932937412681.jpg?param=130y130',
+      name: '失眠飞行',
+      artist: '接个吻，开一枪,沈以诚,薛黛霏',
+      url: 'http://m10.music.126.net/20210730004130/f97023f23076c16c4b5983ace8b68fd2/ymusic/075e/0f52/045c/0431c434b788a0a8a90f3658c6c0fd5f.mp3',
     },
     {
       name: '晴天',
       artist: '周杰伦',
       url: 'https://www.joy127.com/url/84270.mp3',
-
+    },
+    {
+      name: '狂妄',
+      artist: 'Todd Li',
+      url: 'http://m10.music.126.net/20210730004356/991ece340c5a4e325cceab9a7b6338e2/ymusic/c01c/a5ab/69f3/7ee3349d395dfd2bef9f4428f206508f.mp3',
     },
   ]
 });
