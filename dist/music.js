@@ -71,5 +71,10 @@ const ap = new APlayer({
       artist: '茄子蛋',
       url: 'http://m10.music.126.net/20210730124428/175ed0c508c8166f7bfa4046a621c77a/ymusic/0a18/e88d/979f/6d5282fba78b1674f3103ab87342846a.mp3',
     },
+    {
+      name: '陌生人',
+      artist: '蔡健雅',
+      url: 'http://m10.music.126.net/20210730125819/45f49445e59a7607d978df9966d54091/ymusic/1f52/6de0/0062/763bdd929f5c60ae506d54bf1a5ba4b9.mp3',
+    },
   ]
 });
