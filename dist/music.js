@@ -61,5 +61,15 @@ const ap = new APlayer({
       artist: 'Todd Li',
       url: 'http://m10.music.126.net/20210730004356/991ece340c5a4e325cceab9a7b6338e2/ymusic/c01c/a5ab/69f3/7ee3349d395dfd2bef9f4428f206508f.mp3',
     },
+    {
+      name: '鹦鹉',
+      artist: '孟凡明',
+      url: 'http://m10.music.126.net/20210730124112/e9047bd4bb8800bd7a667b93e7e7b067/ymusic/c0d1/b85b/b094/ed3dad3d800f73940553e877458b33a4.mp3',
+    },
+    {
+      name: '浪子回頭',
+      artist: '茄子蛋',
+      url: 'http://m10.music.126.net/20210730124428/175ed0c508c8166f7bfa4046a621c77a/ymusic/0a18/e88d/979f/6d5282fba78b1674f3103ab87342846a.mp3',
+    },
   ]
 });
