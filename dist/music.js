@@ -76,5 +76,15 @@ const ap = new APlayer({
       artist: '蔡健雅',
       url: 'http://m10.music.126.net/20210730125819/45f49445e59a7607d978df9966d54091/ymusic/1f52/6de0/0062/763bdd929f5c60ae506d54bf1a5ba4b9.mp3',
     },
+    {
+      name: '未来式情歌',
+      artist: '零6,陆怡雯,吕帅',
+      url: 'http://m701.music.126.net/20210730220229/de8c454e08415dc3f0e5e79948f617d7/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1950549046/400e/57e4/cd5e/fd40905af0df8e9986afa4b1c19322f0.mp3',
+    },
+    {
+      name: '太多',
+      artist: '陈冠蒲',
+      url: 'http://m10.music.126.net/20210730220709/3e40a23c33a2f61f9d3a27d271c0224b/ymusic/f123/45b8/1120/75a95f8ec36e38a143d2175f29243782.mp3',
+    },
   ]
 });
